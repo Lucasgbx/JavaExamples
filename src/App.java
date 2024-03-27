@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.List;
+
 public class App {
     public static void main(String[] args) throws Exception {
         Parcel p1 = new Parcel("1 New Street", 2.0, 30, 35, 40);
